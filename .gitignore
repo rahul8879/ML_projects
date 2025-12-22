@@ -1,3 +1,5 @@
 /.env
 /ml-env
 /data
+demo-react-app/node_modules
+/__pycache__/
