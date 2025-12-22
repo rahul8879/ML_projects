@@ -8,3 +8,5 @@ python-dotenv
 langchain_openai
 langgraph
 geopy
+fastapi
+uvicorn
